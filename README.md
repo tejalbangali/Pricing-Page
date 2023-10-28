@@ -1,6 +1,9 @@
 # Pricing-Page
 
 <p>
+
+🔗 Check it out by visiting here ➡️ <a href="https://tejalbangali.github.io/Pricing-Page/"> https://tejalbangali.github.io/Pricing-Page/ </a>
+  
   Made <strong>Pricing Table</strong> using <strong>Flexbox</strong>.
 
   Attaching some images below - 👇
